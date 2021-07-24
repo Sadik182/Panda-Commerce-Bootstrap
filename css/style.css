@@ -1,0 +1,18 @@
+.panda-bg-warning {
+    background-color: #FEEAE9;
+}
+.panda-btn-warning {
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
+.panda-btn-info {
+    background-color: #000000;
+    color: white;
+    border-radius: 6px;
+}
+.panda-btn-info:hover{
+    background-color: rgb(8, 8, 73);
+    color: white;
+}
